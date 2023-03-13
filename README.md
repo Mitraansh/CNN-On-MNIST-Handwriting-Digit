@@ -40,8 +40,8 @@ Overall, training a CNN on the MNIST Handwriting Digit dataset is a common exerc
 
 ### The accuracy of the model is approximatly :
 
-+ On the trainning set = 99.77%
-+ On the test set = 99.50 %
++ On the trainning set = 93.77%
++ On the test set = 88.44%
 
 ### Some informations:
 <b>To run directly run the ipynb file step by step </b>
