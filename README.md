@@ -1,7 +1,7 @@
 # CNN-On-MNIST-Handwriting-Digit
 
 ## Introduction
-The MNIST Handwriting Digit dataset is a commonly used dataset in computer vision and machine learning, consisting of a set of 70,000 images of handwritten digits, each with a size of 28x28 pixels. The task is to classify each image into one of the 10 possible digit classes (0-9).
+The MNIST Handwriting Digit dataset is a commonly used dataset in computer vision and machine learning, consisting of a set of images of handwritten digits. The task is to classify each image into one of the 10 possible digit classes (0-9).
 
 ![1](http://i.imgur.com/4o8MTiT.png)
 
@@ -40,8 +40,8 @@ Overall, training a CNN on the MNIST Handwriting Digit dataset is a common exerc
 
 ### The accuracy of the model is approximatly :
 
-+ On the trainning set = 93.77%
-+ On the test set = 88.44%
++ On the trainning set = 99.99%
++ On the test set = 99.59%
 
 ### Some informations:
 <b>To run directly run the ipynb file step by step </b>
